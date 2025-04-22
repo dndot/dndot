@@ -1,14 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Dhiraj Neupane</h1>
 
-<div align="center">
-  <img src="https://github.com/dndot/dndot/blob/main/Banner.png" alt="DevOpsShack Banner">
-</div>
-
-<p align="center">
-  <a href="https://github.com/dndot">
-    <img src="https://img.shields.io/github/followers/dmdot?label=Follow&style=social" />
-  </a>
-  
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -18,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dndot](https://github.com/dndot)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 📫 How to reach me **d.neupane077@gmail.com**
 
 ---
 
